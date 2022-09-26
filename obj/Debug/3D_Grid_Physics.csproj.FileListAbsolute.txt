@@ -1,0 +1,16 @@
+C:\Users\JohnI\source\repos\3D_Grid_Physics\bin\Debug\3D_Grid_Physics.exe
+C:\Users\JohnI\source\repos\3D_Grid_Physics\bin\Debug\3D_Grid_Physics.pdb
+C:\Users\JohnI\source\repos\3D_Grid_Physics\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\JohnI\source\repos\3D_Grid_Physics\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\JohnI\source\repos\3D_Grid_Physics\bin\Debug\Microsoft.DirectX.dll
+C:\Users\JohnI\source\repos\3D_Grid_Physics\bin\Debug\Microsoft.DirectX.xml
+C:\Users\JohnI\source\repos\3D_Grid_Physics\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\JohnI\source\repos\3D_Grid_Physics\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\JohnI\source\repos\3D_Grid_Physics\obj\Debug\3D_Grid_Physics.csprojAssemblyReference.cache
+C:\Users\JohnI\source\repos\3D_Grid_Physics\obj\Debug\_3D_Grid_Physics.Grid_3D.resources
+C:\Users\JohnI\source\repos\3D_Grid_Physics\obj\Debug\_3D_Grid_Physics.Properties.Resources.resources
+C:\Users\JohnI\source\repos\3D_Grid_Physics\obj\Debug\3D_Grid_Physics.csproj.GenerateResource.cache
+C:\Users\JohnI\source\repos\3D_Grid_Physics\obj\Debug\3D_Grid_Physics.csproj.CoreCompileInputs.cache
+C:\Users\JohnI\source\repos\3D_Grid_Physics\obj\Debug\3D_Grid_Physics.csproj.CopyComplete
+C:\Users\JohnI\source\repos\3D_Grid_Physics\obj\Debug\3D_Grid_Physics.exe
+C:\Users\JohnI\source\repos\3D_Grid_Physics\obj\Debug\3D_Grid_Physics.pdb
